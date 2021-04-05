@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "Azeem Subhani",
+      "description": "Okayy",
+      "id": 1
+    },
+    {
+      "title": "this is my stream",
+      "description": "running gunning and dying",
+      "id": 2
+    },
+    {
+      "title": "this is my stream",
+      "description": "running gunning and dying",
+      "id": 3
+    },
+    {
+      "title": "I just used a Patch Request",
+      "description": "this was made by me",
+      "userId": "117545234752182255077",
+      "id": 4
+    },
+    {
+      "title": "This stream is about refactoring",
+      "description": "nope",
+      "id": 5
+    }
+  ]
+}
